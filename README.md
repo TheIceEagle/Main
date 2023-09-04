@@ -1,3 +1,2 @@
-- 👋 Hi, I’m Ilyas Raikulov 
-- 👀 I’m interested in Artificial Intelligence and other cool staff.
+- 👋 Hi, I’m Ilyas Raimkulov 
 - 🌱 I’m currently learninng computer science.
